@@ -1,19 +1,7 @@
-# Creating Python programs in Codio
+# Burak Kahraman Cloud Project
 
-### Make a new file
-Use **File > New File...** or right-click in the file tree to create a new file. You can right-click in the file tree to rename or delete files.
+This repository was created for the Modern Cloud Computing course.
 
-As Codio detects which file is in focus, simply put your cursor into whichever code editor you want to run.
+The purpose of this project is to set up a source code repository, become familiar with GitHub and Visual Studio Code, and track progress throughout the course using version control.
 
-### Run your code
-Use the Run button (that looks like a Rocketship) to Run the file your cursor is in.
-
-### Debug your code
-Use the "Debug Current File" on the far right of the top menu bar to launch the debugger targeting the file your cursor is in.
-
-### Reconfigure your Panels for easier development
-Use the **View > Panels** menu on the top tool bar to segment your screen.
-
-Simply drag the tab of the file or terminal (the part with the name) you want to move into the new panel.
-
-
+All assignments and project-related work for this course will be maintained and updated in this repository.
